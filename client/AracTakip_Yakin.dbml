@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Local_veriler" Class="AracTakip_YakinDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=127.0.0.1;Initial Catalog=Local_veriler;Integrated Security=True" SettingsObjectName="client_yeni.Properties.Settings" SettingsPropertyName="Local_verilerConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Track_LocationInf_new" Member="Track_LocationInf_news">
+    <Type Name="Track_LocationInf_new">
+      <Column Name="LocationInf" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="PortNumber" Type="System.String" DbType="NChar(6) NOT NULL" CanBeNull="false" />
+      <Column Name="Plaka" Type="System.String" DbType="NChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="Latitude" Type="System.String" DbType="NChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="LatPos" Type="System.String" DbType="NChar(2)" CanBeNull="true" />
+      <Column Name="Longitude" Type="System.String" DbType="NChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="LonPos" Type="System.String" DbType="NChar(2)" CanBeNull="true" />
+      <Column Name="Speed" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="Course" Type="System.String" DbType="NChar(15)" CanBeNull="true" />
+      <Column Name="EmergencyCall" Type="System.String" DbType="NChar(2) NOT NULL" CanBeNull="false" />
+      <Column Name="Contact" Type="System.String" DbType="NChar(2) NOT NULL" CanBeNull="false" />
+      <Column Name="DateTime" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>

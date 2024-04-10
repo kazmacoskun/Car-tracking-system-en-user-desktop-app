@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="AracTakip_Yakin">
+  <DataContextMoniker Name="/AracTakip_YakinDataContext" />
+  <nestedChildShapes>
+    <classShape Id="216b1af3-9e16-45f2-b306-b03033adc075" absoluteBounds="2.625, 0.75, 2, 3.1170068359375">
+      <DataClassMoniker Name="/AracTakip_YakinDataContext/Track_LocationInf_new" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9ce40148-27bb-4e43-b7cc-82280d25ceed" absoluteBounds="2.6399999999999997, 1.21, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

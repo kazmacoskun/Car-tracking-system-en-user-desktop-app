@@ -1,0 +1,246 @@
+D:\ATP geliştirmelerim\PC\client\client_uzak_yeni\client_yeni\client_yeni\bin\Debug\client_yeni.exe
+D:\ATP geliştirmelerim\PC\client\client_uzak_yeni\client_yeni\client_yeni\bin\Debug\client_yeni.pdb
+D:\ATP geliştirmelerim\PC\client\client_uzak_yeni\client_yeni\client_yeni\obj\x86\Debug\client_yeni.Properties.Resources.resources
+D:\ATP geliştirmelerim\PC\client\client_uzak_yeni\client_yeni\client_yeni\obj\x86\Debug\client_yeni.exe
+D:\ATP geliştirmelerim\PC\client\client_uzak_yeni\client_yeni\client_yeni\obj\x86\Debug\client_yeni.pdb
+D:\ATP geliştirmelerim\PC\client\client_uzak_yeni\client_yeni\client_yeni\obj\x86\Debug\client_yeni.Form1.resources
+D:\ATP geliştirmelerim\PC\client\client_uzak_yeni\client_yeni\client_yeni\bin\Debug\GMap.NET.WindowsForms.dll
+D:\ATP geliştirmelerim\PC\client\client_uzak_yeni\client_yeni\client_yeni\bin\Debug\GMap.NET.Core.xml
+D:\ATP geliştirmelerim\PC\client\client_uzak_yeni\client_yeni\client_yeni\bin\Debug\GMap.NET.WindowsForms.xml
+D:\ATP geliştirmelerim\PC\client\client_uzak_yeni\client_yeni\client_yeni\bin\Debug\client_yeni.exe.config
+D:\ATP geliştirmelerim\PC\client\client_uzak_yeni\client_yeni\client_yeni\obj\x86\Debug\client_yeni.Form2.resources
+D:\ATP geliştirmelerim\PC\client\client_uzak_yeni\client_yeni\client_yeni\obj\x86\Debug\client_yeni.csproj.ResolveComReference.cache
+D:\ATP geliştirmelerim\PC\client\client_uzak_yeni\client_yeni\client_yeni\obj\x86\Debug\client_yeni.csprojResolveAssemblyReference.cache
+D:\ATP geliştirmelerim\PC\client\client_uzak_yeni\client_yeni\client_yeni\obj\x86\Debug\client_yeni.csproj.GenerateResource.Cache
+C:\Users\coskun\Desktop\client_uzak_yeni\client_yeni\client_yeni\bin\Debug\client_yeni.exe.config
+C:\Users\coskun\Desktop\client_uzak_yeni\client_yeni\client_yeni\obj\x86\Debug\client_yeni.csproj.ResolveComReference.cache
+C:\Users\coskun\Desktop\client_uzak_yeni\client_yeni\client_yeni\obj\x86\Debug\client_yeni.exe
+C:\Users\coskun\Desktop\client_uzak_yeni\client_yeni\client_yeni\obj\x86\Debug\client_yeni.pdb
+C:\Users\coskun\Desktop\client_uzak_yeni\client_yeni\client_yeni\bin\Debug\client_yeni.exe
+C:\Users\coskun\Desktop\client_uzak_yeni\client_yeni\client_yeni\bin\Debug\client_yeni.pdb
+C:\Users\coskun\Desktop\client_uzak_yeni\client_yeni\client_yeni\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\coskun\Desktop\client_uzak_yeni\client_yeni\client_yeni\bin\Debug\GMap.NET.Core.xml
+C:\Users\coskun\Desktop\client_uzak_yeni\client_yeni\client_yeni\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\coskun\Desktop\client_uzak_yeni\client_yeni\client_yeni\obj\x86\Debug\client_yeni.csprojResolveAssemblyReference.cache
+C:\Users\coskun\Desktop\client_uzak_yeni\client_yeni\client_yeni\obj\x86\Debug\client_yeni.Form1.resources
+C:\Users\coskun\Desktop\client_uzak_yeni\client_yeni\client_yeni\obj\x86\Debug\client_yeni.Form2.resources
+C:\Users\coskun\Desktop\client_uzak_yeni\client_yeni\client_yeni\obj\x86\Debug\client_yeni.Properties.Resources.resources
+C:\Users\coskun\Desktop\client_uzak_yeni\client_yeni\client_yeni\obj\x86\Debug\client_yeni.csproj.GenerateResource.Cache
+C:\Users\coskun\Desktop\client_uzak_yeni - Kopya\client_yeni\client_yeni\bin\Debug\client_yeni.exe.config
+C:\Users\coskun\Desktop\client_uzak_yeni - Kopya\client_yeni\client_yeni\obj\x86\Debug\client_yeni.csproj.ResolveComReference.cache
+C:\Users\coskun\Desktop\client_uzak_yeni - Kopya\client_yeni\client_yeni\obj\x86\Debug\client_yeni.exe
+C:\Users\coskun\Desktop\client_uzak_yeni - Kopya\client_yeni\client_yeni\obj\x86\Debug\client_yeni.pdb
+C:\Users\coskun\Desktop\client_uzak_yeni - Kopya\client_yeni\client_yeni\bin\Debug\client_yeni.exe
+C:\Users\coskun\Desktop\client_uzak_yeni - Kopya\client_yeni\client_yeni\bin\Debug\client_yeni.pdb
+C:\Users\coskun\Desktop\client_uzak_yeni - Kopya\client_yeni\client_yeni\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\coskun\Desktop\client_uzak_yeni - Kopya\client_yeni\client_yeni\bin\Debug\GMap.NET.Core.xml
+C:\Users\coskun\Desktop\client_uzak_yeni - Kopya\client_yeni\client_yeni\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\coskun\Desktop\client_uzak_yeni - Kopya\client_yeni\client_yeni\obj\x86\Debug\client_yeni.csprojResolveAssemblyReference.cache
+C:\Users\coskun\Desktop\client_uzak_yeni - Kopya\client_yeni\client_yeni\obj\x86\Debug\client_yeni.Form1.resources
+C:\Users\coskun\Desktop\client_uzak_yeni - Kopya\client_yeni\client_yeni\obj\x86\Debug\client_yeni.Form2.resources
+C:\Users\coskun\Desktop\client_uzak_yeni - Kopya\client_yeni\client_yeni\obj\x86\Debug\client_yeni.Properties.Resources.resources
+C:\Users\coskun\Desktop\client_uzak_yeni - Kopya\client_yeni\client_yeni\obj\x86\Debug\client_yeni.csproj.GenerateResource.Cache
+C:\Users\coskun\Desktop\hayda bre\client_yeni\client_yeni\bin\Debug\client_yeni.exe.config
+C:\Users\coskun\Desktop\hayda bre\client_yeni\client_yeni\obj\x86\Debug\client_yeni.csproj.ResolveComReference.cache
+C:\Users\coskun\Desktop\hayda bre\client_yeni\client_yeni\obj\x86\Debug\client_yeni.exe
+C:\Users\coskun\Desktop\hayda bre\client_yeni\client_yeni\obj\x86\Debug\client_yeni.pdb
+C:\Users\coskun\Desktop\hayda bre\client_yeni\client_yeni\bin\Debug\client_yeni.exe
+C:\Users\coskun\Desktop\hayda bre\client_yeni\client_yeni\bin\Debug\client_yeni.pdb
+C:\Users\coskun\Desktop\hayda bre\client_yeni\client_yeni\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\coskun\Desktop\hayda bre\client_yeni\client_yeni\bin\Debug\GMap.NET.Core.xml
+C:\Users\coskun\Desktop\hayda bre\client_yeni\client_yeni\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\coskun\Desktop\hayda bre\client_yeni\client_yeni\obj\x86\Debug\client_yeni.csprojResolveAssemblyReference.cache
+C:\Users\coskun\Desktop\hayda bre\client_yeni\client_yeni\obj\x86\Debug\client_yeni.Form1.resources
+C:\Users\coskun\Desktop\hayda bre\client_yeni\client_yeni\obj\x86\Debug\client_yeni.Form2.resources
+C:\Users\coskun\Desktop\hayda bre\client_yeni\client_yeni\obj\x86\Debug\client_yeni.Properties.Resources.resources
+C:\Users\coskun\Desktop\hayda bre\client_yeni\client_yeni\obj\x86\Debug\client_yeni.csproj.GenerateResource.Cache
+C:\Users\coskun\Desktop\client_yeni_19.04.2013\client_yeni\bin\Debug\client_yeni.exe.config
+C:\Users\coskun\Desktop\client_yeni_19.04.2013\client_yeni\obj\x86\Debug\client_yeni.csproj.ResolveComReference.cache
+C:\Users\coskun\Desktop\client_yeni_19.04.2013\client_yeni\obj\x86\Debug\client_yeni.exe
+C:\Users\coskun\Desktop\client_yeni_19.04.2013\client_yeni\obj\x86\Debug\client_yeni.pdb
+C:\Users\coskun\Desktop\client_yeni_19.04.2013\client_yeni\bin\Debug\client_yeni.exe
+C:\Users\coskun\Desktop\client_yeni_19.04.2013\client_yeni\bin\Debug\client_yeni.pdb
+C:\Users\coskun\Desktop\client_yeni_19.04.2013\client_yeni\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\coskun\Desktop\client_yeni_19.04.2013\client_yeni\bin\Debug\GMap.NET.Core.xml
+C:\Users\coskun\Desktop\client_yeni_19.04.2013\client_yeni\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\coskun\Desktop\client_yeni_19.04.2013\client_yeni\obj\x86\Debug\client_yeni.csprojResolveAssemblyReference.cache
+C:\Users\coskun\Desktop\client_yeni_19.04.2013\client_yeni\obj\x86\Debug\client_yeni.Form1.resources
+C:\Users\coskun\Desktop\client_yeni_19.04.2013\client_yeni\obj\x86\Debug\client_yeni.Form2.resources
+C:\Users\coskun\Desktop\client_yeni_19.04.2013\client_yeni\obj\x86\Debug\client_yeni.Properties.Resources.resources
+C:\Users\coskun\Desktop\client_yeni_19.04.2013\client_yeni\obj\x86\Debug\client_yeni.csproj.GenerateResource.Cache
+C:\Users\coskun\Desktop\servis\client_yeni_19.04.2013\client_yeni\bin\Debug\client_yeni.exe.config
+C:\Users\coskun\Desktop\servis\client_yeni_19.04.2013\client_yeni\obj\x86\Debug\client_yeni.csproj.ResolveComReference.cache
+C:\Users\coskun\Desktop\servis\client_yeni_19.04.2013\client_yeni\obj\x86\Debug\client_yeni.exe
+C:\Users\coskun\Desktop\servis\client_yeni_19.04.2013\client_yeni\obj\x86\Debug\client_yeni.pdb
+C:\Users\coskun\Desktop\servis\client_yeni_19.04.2013\client_yeni\obj\x86\Debug\client_yeni.csprojResolveAssemblyReference.cache
+C:\Users\coskun\Desktop\servis\client_yeni_19.04.2013\client_yeni\obj\x86\Debug\client_yeni.Form1.resources
+C:\Users\coskun\Desktop\servis\client_yeni_19.04.2013\client_yeni\obj\x86\Debug\client_yeni.Form2.resources
+C:\Users\coskun\Desktop\servis\client_yeni_19.04.2013\client_yeni\obj\x86\Debug\client_yeni.Properties.Resources.resources
+C:\Users\coskun\Desktop\servis\client_yeni_19.04.2013\client_yeni\obj\x86\Debug\client_yeni.csproj.GenerateResource.Cache
+C:\Users\coskun\Desktop\servis\client_yeni_19.04.2013\client_yeni\bin\Debug\client_yeni.exe
+C:\Users\coskun\Desktop\servis\client_yeni_19.04.2013\client_yeni\bin\Debug\client_yeni.pdb
+C:\Users\coskun\Desktop\servis\client_yeni_19.04.2013\client_yeni\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\coskun\Desktop\servis\client_yeni_19.04.2013\client_yeni\bin\Debug\GMap.NET.Core.xml
+C:\Users\coskun\Desktop\servis\client_yeni_19.04.2013\client_yeni\bin\Debug\GMap.NET.WindowsForms.xml
+E:\ATP geliştirmelerim\servis ve client\servis\client_yeni_19.04.2013\client_yeni\bin\Debug\client_yeni.exe.config
+E:\ATP geliştirmelerim\servis ve client\servis\client_yeni_19.04.2013\client_yeni\obj\x86\Debug\client_yeni.csproj.ResolveComReference.cache
+E:\ATP geliştirmelerim\servis ve client\servis\client_yeni_19.04.2013\client_yeni\obj\x86\Debug\client_yeni.exe
+E:\ATP geliştirmelerim\servis ve client\servis\client_yeni_19.04.2013\client_yeni\obj\x86\Debug\client_yeni.pdb
+E:\ATP geliştirmelerim\servis ve client\servis\client_yeni_19.04.2013\client_yeni\bin\Debug\client_yeni.exe
+E:\ATP geliştirmelerim\servis ve client\servis\client_yeni_19.04.2013\client_yeni\bin\Debug\client_yeni.pdb
+E:\ATP geliştirmelerim\servis ve client\servis\client_yeni_19.04.2013\client_yeni\bin\Debug\GMap.NET.Core.xml
+E:\ATP geliştirmelerim\servis ve client\servis\client_yeni_19.04.2013\client_yeni\bin\Debug\GMap.NET.WindowsForms.xml
+E:\ATP geliştirmelerim\servis ve client\servis\client_yeni_19.04.2013\client_yeni\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\ATP geliştirmelerim\servis ve client\servis\client_yeni_19.04.2013\client_yeni\obj\x86\Debug\client_yeni.Form1.resources
+E:\ATP geliştirmelerim\servis ve client\servis\client_yeni_19.04.2013\client_yeni\obj\x86\Debug\client_yeni.Form2.resources
+E:\ATP geliştirmelerim\servis ve client\servis\client_yeni_19.04.2013\client_yeni\obj\x86\Debug\client_yeni.Properties.Resources.resources
+E:\ATP geliştirmelerim\servis ve client\servis\client_yeni_19.04.2013\client_yeni\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\ATP geliştirmelerim\servis ve client\servis\client_yeni_19.04.2013\client_yeni\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\coskun\Desktop\0905\servis ve client\servis\client_yeni_19.04.2013\client_yeni\bin\Debug\client_yeni.exe.config
+C:\Users\coskun\Desktop\0905\servis ve client\servis\client_yeni_19.04.2013\client_yeni\obj\x86\Debug\client_yeni.csproj.ResolveComReference.cache
+C:\Users\coskun\Desktop\0905\servis ve client\servis\client_yeni_19.04.2013\client_yeni\obj\x86\Debug\client_yeni.exe
+C:\Users\coskun\Desktop\0905\servis ve client\servis\client_yeni_19.04.2013\client_yeni\obj\x86\Debug\client_yeni.pdb
+C:\Users\coskun\Desktop\0905\servis ve client\servis\client_yeni_19.04.2013\client_yeni\bin\Debug\client_yeni.exe
+C:\Users\coskun\Desktop\0905\servis ve client\servis\client_yeni_19.04.2013\client_yeni\bin\Debug\client_yeni.pdb
+C:\Users\coskun\Desktop\0905\servis ve client\servis\client_yeni_19.04.2013\client_yeni\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\coskun\Desktop\0905\servis ve client\servis\client_yeni_19.04.2013\client_yeni\bin\Debug\GMap.NET.Core.xml
+C:\Users\coskun\Desktop\0905\servis ve client\servis\client_yeni_19.04.2013\client_yeni\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\coskun\Desktop\0905\servis ve client\servis\client_yeni_19.04.2013\client_yeni\obj\x86\Debug\client_yeni.csprojResolveAssemblyReference.cache
+C:\Users\coskun\Desktop\0905\servis ve client\servis\client_yeni_19.04.2013\client_yeni\obj\x86\Debug\client_yeni.Form1.resources
+C:\Users\coskun\Desktop\0905\servis ve client\servis\client_yeni_19.04.2013\client_yeni\obj\x86\Debug\client_yeni.Form2.resources
+C:\Users\coskun\Desktop\0905\servis ve client\servis\client_yeni_19.04.2013\client_yeni\obj\x86\Debug\client_yeni.Properties.Resources.resources
+C:\Users\coskun\Desktop\0905\servis ve client\servis\client_yeni_19.04.2013\client_yeni\obj\x86\Debug\client_yeni.csproj.GenerateResource.Cache
+E:\ATP\0905\servis ve client\servis\client_yeni_19.04.2013\client_yeni\bin\Debug\client_yeni.exe.config
+E:\ATP\0905\servis ve client\servis\client_yeni_19.04.2013\client_yeni\obj\x86\Debug\client_yeni.csproj.ResolveComReference.cache
+E:\ATP\0905\servis ve client\servis\client_yeni_19.04.2013\client_yeni\obj\x86\Debug\client_yeni.exe
+E:\ATP\0905\servis ve client\servis\client_yeni_19.04.2013\client_yeni\obj\x86\Debug\client_yeni.pdb
+E:\ATP\0905\servis ve client\servis\client_yeni_19.04.2013\client_yeni\bin\Debug\client_yeni.exe
+E:\ATP\0905\servis ve client\servis\client_yeni_19.04.2013\client_yeni\bin\Debug\client_yeni.pdb
+E:\ATP\0905\servis ve client\servis\client_yeni_19.04.2013\client_yeni\bin\Debug\GMap.NET.Core.xml
+E:\ATP\0905\servis ve client\servis\client_yeni_19.04.2013\client_yeni\bin\Debug\GMap.NET.WindowsForms.xml
+E:\ATP\0905\servis ve client\servis\client_yeni_19.04.2013\client_yeni\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\ATP\0905\servis ve client\servis\client_yeni_19.04.2013\client_yeni\obj\x86\Debug\client_yeni.Form1.resources
+E:\ATP\0905\servis ve client\servis\client_yeni_19.04.2013\client_yeni\obj\x86\Debug\client_yeni.Form2.resources
+E:\ATP\0905\servis ve client\servis\client_yeni_19.04.2013\client_yeni\obj\x86\Debug\client_yeni.Properties.Resources.resources
+E:\ATP\0905\servis ve client\servis\client_yeni_19.04.2013\client_yeni\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\ATP\0905\servis ve client\servis\client_yeni_19.04.2013\client_yeni\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\ATP\1305\client_yeni_19.04.2013\client_yeni\bin\Debug\client_yeni.exe.config
+E:\ATP\1305\client_yeni_19.04.2013\client_yeni\obj\x86\Debug\client_yeni.csproj.ResolveComReference.cache
+E:\ATP\1305\client_yeni_19.04.2013\client_yeni\obj\x86\Debug\client_yeni.exe
+E:\ATP\1305\client_yeni_19.04.2013\client_yeni\obj\x86\Debug\client_yeni.pdb
+E:\ATP\1305\client_yeni_19.04.2013\client_yeni\bin\Debug\client_yeni.exe
+E:\ATP\1305\client_yeni_19.04.2013\client_yeni\bin\Debug\client_yeni.pdb
+E:\ATP\1305\client_yeni_19.04.2013\client_yeni\bin\Debug\GMap.NET.Core.xml
+E:\ATP\1305\client_yeni_19.04.2013\client_yeni\bin\Debug\GMap.NET.WindowsForms.xml
+E:\ATP\1305\client_yeni_19.04.2013\client_yeni\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\ATP\1305\client_yeni_19.04.2013\client_yeni\obj\x86\Debug\client_yeni.Form1.resources
+E:\ATP\1305\client_yeni_19.04.2013\client_yeni\obj\x86\Debug\client_yeni.Form2.resources
+E:\ATP\1305\client_yeni_19.04.2013\client_yeni\obj\x86\Debug\client_yeni.Properties.Resources.resources
+E:\ATP\1305\client_yeni_19.04.2013\client_yeni\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\ATP\1305\client_yeni_19.04.2013\client_yeni\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Coskun\Desktop\set-up ve öncesi\client_yeni_19.04.2013\client_yeni\bin\Debug\client_yeni.exe.config
+C:\Users\Coskun\Desktop\set-up ve öncesi\client_yeni_19.04.2013\client_yeni\obj\x86\Debug\client_yeni.csproj.ResolveComReference.cache
+C:\Users\Coskun\Desktop\set-up ve öncesi\client_yeni_19.04.2013\client_yeni\obj\x86\Debug\client_yeni.exe
+C:\Users\Coskun\Desktop\set-up ve öncesi\client_yeni_19.04.2013\client_yeni\obj\x86\Debug\client_yeni.pdb
+C:\Users\Coskun\Desktop\set-up ve öncesi\client_yeni_19.04.2013\client_yeni\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Coskun\Desktop\set-up ve öncesi\client_yeni_19.04.2013\client_yeni\obj\x86\Debug\client_yeni.Form1.resources
+C:\Users\Coskun\Desktop\set-up ve öncesi\client_yeni_19.04.2013\client_yeni\obj\x86\Debug\client_yeni.Form2.resources
+C:\Users\Coskun\Desktop\set-up ve öncesi\client_yeni_19.04.2013\client_yeni\obj\x86\Debug\client_yeni.Properties.Resources.resources
+C:\Users\Coskun\Desktop\set-up ve öncesi\client_yeni_19.04.2013\client_yeni\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Coskun\Desktop\set-up ve öncesi\client_yeni_19.04.2013\client_yeni\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Coskun\Desktop\set-up ve öncesi\client_yeni_19.04.2013\client_yeni\bin\Debug\client_yeni.exe
+C:\Users\Coskun\Desktop\set-up ve öncesi\client_yeni_19.04.2013\client_yeni\bin\Debug\client_yeni.pdb
+C:\Users\Coskun\Desktop\set-up ve öncesi\client_yeni_19.04.2013\client_yeni\bin\Debug\GMap.NET.Core.xml
+C:\Users\Coskun\Desktop\set-up ve öncesi\client_yeni_19.04.2013\client_yeni\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\Coskun\Desktop\set-up ve öncesi\client_yeni_16.05.2013\client_yeni\bin\Debug\client_yeni.exe.config
+C:\Users\Coskun\Desktop\set-up ve öncesi\client_yeni_16.05.2013\client_yeni\obj\x86\Debug\client_yeni.csproj.ResolveComReference.cache
+C:\Users\Coskun\Desktop\set-up ve öncesi\client_yeni_16.05.2013\client_yeni\obj\x86\Debug\client_yeni.exe
+C:\Users\Coskun\Desktop\set-up ve öncesi\client_yeni_16.05.2013\client_yeni\obj\x86\Debug\client_yeni.pdb
+C:\Users\Coskun\Desktop\set-up ve öncesi\client_yeni_16.05.2013 - yerel DB\client_yeni\bin\Debug\client_yeni.exe.config
+C:\Users\Coskun\Desktop\set-up ve öncesi\client_yeni_16.05.2013 - yerel DB\client_yeni\obj\x86\Debug\client_yeni.csproj.ResolveComReference.cache
+C:\Users\Coskun\Desktop\set-up ve öncesi\client_yeni_16.05.2013 - yerel DB\client_yeni\obj\x86\Debug\client_yeni.exe
+C:\Users\Coskun\Desktop\set-up ve öncesi\client_yeni_16.05.2013 - yerel DB\client_yeni\obj\x86\Debug\client_yeni.pdb
+C:\Users\Coskun\Desktop\set-up ve öncesi\client_yeni_16.05.2013 - yerel DB\client_yeni\bin\Debug\client_yeni.exe
+C:\Users\Coskun\Desktop\set-up ve öncesi\client_yeni_16.05.2013 - yerel DB\client_yeni\bin\Debug\client_yeni.pdb
+C:\Users\Coskun\Desktop\set-up ve öncesi\client_yeni_16.05.2013 - yerel DB\client_yeni\bin\Debug\GMap.NET.Core.xml
+C:\Users\Coskun\Desktop\set-up ve öncesi\client_yeni_16.05.2013 - yerel DB\client_yeni\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\Coskun\Desktop\set-up ve öncesi\client_yeni_16.05.2013 - yerel DB\client_yeni\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Coskun\Desktop\set-up ve öncesi\client_yeni_16.05.2013 - yerel DB\client_yeni\obj\x86\Debug\client_yeni.Form1.resources
+C:\Users\Coskun\Desktop\set-up ve öncesi\client_yeni_16.05.2013 - yerel DB\client_yeni\obj\x86\Debug\client_yeni.Form2.resources
+C:\Users\Coskun\Desktop\set-up ve öncesi\client_yeni_16.05.2013 - yerel DB\client_yeni\obj\x86\Debug\client_yeni.Properties.Resources.resources
+C:\Users\Coskun\Desktop\set-up ve öncesi\client_yeni_16.05.2013 - yerel DB\client_yeni\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Coskun\Desktop\set-up ve öncesi\client_yeni_16.05.2013 - yerel DB\client_yeni\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Coskun\Desktop\set-up ve öncesi\client_yeni_16.05.2013 - yerel DB - temiz\client_yeni\bin\Debug\client_yeni.exe.config
+C:\Users\Coskun\Desktop\set-up ve öncesi\client_yeni_16.05.2013 - yerel DB - temiz\client_yeni\obj\x86\Debug\client_yeni.csproj.ResolveComReference.cache
+C:\Users\Coskun\Desktop\set-up ve öncesi\client_yeni_16.05.2013 - yerel DB - temiz\client_yeni\obj\x86\Debug\client_yeni.exe
+C:\Users\Coskun\Desktop\set-up ve öncesi\client_yeni_16.05.2013 - yerel DB - temiz\client_yeni\obj\x86\Debug\client_yeni.pdb
+C:\Users\Coskun\Desktop\set-up ve öncesi\client_yeni_16.05.2013 - yerel DB - temiz\client_yeni\bin\Debug\client_yeni.exe
+C:\Users\Coskun\Desktop\set-up ve öncesi\client_yeni_16.05.2013 - yerel DB - temiz\client_yeni\bin\Debug\client_yeni.pdb
+C:\Users\Coskun\Desktop\set-up ve öncesi\client_yeni_16.05.2013 - yerel DB - temiz\client_yeni\bin\Debug\GMap.NET.Core.xml
+C:\Users\Coskun\Desktop\set-up ve öncesi\client_yeni_16.05.2013 - yerel DB - temiz\client_yeni\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\Coskun\Desktop\set-up ve öncesi\client_yeni_16.05.2013 - yerel DB - temiz\client_yeni\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Coskun\Desktop\set-up ve öncesi\client_yeni_16.05.2013 - yerel DB - temiz\client_yeni\obj\x86\Debug\client_yeni.Form1.resources
+C:\Users\Coskun\Desktop\set-up ve öncesi\client_yeni_16.05.2013 - yerel DB - temiz\client_yeni\obj\x86\Debug\client_yeni.Form2.resources
+C:\Users\Coskun\Desktop\set-up ve öncesi\client_yeni_16.05.2013 - yerel DB - temiz\client_yeni\obj\x86\Debug\client_yeni.Properties.Resources.resources
+C:\Users\Coskun\Desktop\set-up ve öncesi\client_yeni_16.05.2013 - yerel DB - temiz\client_yeni\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Coskun\Desktop\set-up ve öncesi\client_yeni_16.05.2013 - yerel DB - temiz\client_yeni\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Coskun\Desktop\client_yeni_16.05.2013 - yerel DB - temiz\client_yeni\bin\Debug\client_yeni.exe.config
+C:\Users\Coskun\Desktop\client_yeni_16.05.2013 - yerel DB - temiz\client_yeni\obj\x86\Debug\client_yeni.csproj.ResolveComReference.cache
+C:\Users\Coskun\Desktop\client_yeni_16.05.2013 - yerel DB - temiz\client_yeni\obj\x86\Debug\client_yeni.exe
+C:\Users\Coskun\Desktop\client_yeni_16.05.2013 - yerel DB - temiz\client_yeni\obj\x86\Debug\client_yeni.pdb
+C:\Users\Coskun\Desktop\client_yeni_16.05.2013 - yerel DB - temiz\client_yeni\bin\Debug\client_yeni.exe
+C:\Users\Coskun\Desktop\client_yeni_16.05.2013 - yerel DB - temiz\client_yeni\bin\Debug\client_yeni.pdb
+C:\Users\Coskun\Desktop\client_yeni_16.05.2013 - yerel DB - temiz\client_yeni\bin\Debug\GMap.NET.Core.xml
+C:\Users\Coskun\Desktop\client_yeni_16.05.2013 - yerel DB - temiz\client_yeni\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\Coskun\Desktop\client_yeni_16.05.2013 - yerel DB - temiz\client_yeni\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Coskun\Desktop\client_yeni_16.05.2013 - yerel DB - temiz\client_yeni\obj\x86\Debug\client_yeni.Form1.resources
+C:\Users\Coskun\Desktop\client_yeni_16.05.2013 - yerel DB - temiz\client_yeni\obj\x86\Debug\client_yeni.Form2.resources
+C:\Users\Coskun\Desktop\client_yeni_16.05.2013 - yerel DB - temiz\client_yeni\obj\x86\Debug\client_yeni.Properties.Resources.resources
+C:\Users\Coskun\Desktop\client_yeni_16.05.2013 - yerel DB - temiz\client_yeni\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Coskun\Desktop\client_yeni_16.05.2013 - yerel DB - temiz\client_yeni\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Coskun\Desktop\client_yeni_16.05.2013 - yerel DB - temiz_DB_EKLEME\client_yeni\bin\Debug\client_yeni.exe.config
+C:\Users\Coskun\Desktop\client_yeni_16.05.2013 - yerel DB - temiz_DB_EKLEME\client_yeni\obj\x86\Debug\client_yeni.csproj.ResolveComReference.cache
+C:\Users\Coskun\Desktop\client_yeni_16.05.2013 - yerel DB - temiz_DB_EKLEME\client_yeni\obj\x86\Debug\client_yeni.exe
+C:\Users\Coskun\Desktop\client_yeni_16.05.2013 - yerel DB - temiz_DB_EKLEME\client_yeni\obj\x86\Debug\client_yeni.pdb
+C:\Users\Coskun\Desktop\client_yeni_16.05.2013 - yerel DB - temiz_DB_EKLEME\client_yeni\bin\Debug\client_yeni.exe
+C:\Users\Coskun\Desktop\client_yeni_16.05.2013 - yerel DB - temiz_DB_EKLEME\client_yeni\bin\Debug\client_yeni.pdb
+C:\Users\Coskun\Desktop\client_yeni_16.05.2013 - yerel DB - temiz_DB_EKLEME\client_yeni\bin\Debug\GMap.NET.Core.xml
+C:\Users\Coskun\Desktop\client_yeni_16.05.2013 - yerel DB - temiz_DB_EKLEME\client_yeni\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\Coskun\Desktop\client_yeni_16.05.2013 - yerel DB - temiz_DB_EKLEME\client_yeni\obj\x86\Debug\client_yeni.Form1.resources
+C:\Users\Coskun\Desktop\client_yeni_16.05.2013 - yerel DB - temiz_DB_EKLEME\client_yeni\obj\x86\Debug\client_yeni.Form2.resources
+C:\Users\Coskun\Desktop\client_yeni_16.05.2013 - yerel DB - temiz_DB_EKLEME\client_yeni\obj\x86\Debug\client_yeni.Properties.Resources.resources
+C:\Users\coskun\Desktop\client_yeni_16.05.2013 - yerel DB - temiz_DB_EKLEME\client_yeni\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\coskun\Desktop\client_yeni_16.05.2013 - yerel DB - temiz_DB_EKLEME\client_yeni\obj\x86\Debug\client_yeni.csprojResolveAssemblyReference.cache
+C:\Users\coskun\Desktop\client_yeni_16.05.2013 - yerel DB - temiz_DB_EKLEME\client_yeni\obj\x86\Debug\client_yeni.csproj.GenerateResource.Cache
+C:\Users\Coskun\Desktop\se\client_yeni_16.05.2013 - yerel DB - temiz_DB_EKLEME - Kopya\client_yeni\bin\Debug\client_yeni.exe.config
+C:\Users\Coskun\Desktop\se\client_yeni_16.05.2013 - yerel DB - temiz_DB_EKLEME - Kopya\client_yeni\obj\x86\Debug\client_yeni.csproj.ResolveComReference.cache
+C:\Users\Coskun\Desktop\se\client_yeni_16.05.2013 - yerel DB - temiz_DB_EKLEME - Kopya\client_yeni\obj\x86\Debug\client_yeni.exe
+C:\Users\Coskun\Desktop\se\client_yeni_16.05.2013 - yerel DB - temiz_DB_EKLEME - Kopya\client_yeni\obj\x86\Debug\client_yeni.pdb
+C:\Users\Coskun\Desktop\se\client_yeni_16.05.2013 - yerel DB - temiz_DB_EKLEME - Kopya\client_yeni\bin\Debug\client_yeni.exe
+C:\Users\Coskun\Desktop\se\client_yeni_16.05.2013 - yerel DB - temiz_DB_EKLEME - Kopya\client_yeni\bin\Debug\client_yeni.pdb
+C:\Users\Coskun\Desktop\se\client_yeni_16.05.2013 - yerel DB - temiz_DB_EKLEME - Kopya\client_yeni\bin\Debug\GMap.NET.Core.xml
+C:\Users\Coskun\Desktop\se\client_yeni_16.05.2013 - yerel DB - temiz_DB_EKLEME - Kopya\client_yeni\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\Coskun\Desktop\se\client_yeni_16.05.2013 - yerel DB - temiz_DB_EKLEME - Kopya\client_yeni\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Coskun\Desktop\se\client_yeni_16.05.2013 - yerel DB - temiz_DB_EKLEME - Kopya\client_yeni\obj\x86\Debug\client_yeni.Form1.resources
+C:\Users\Coskun\Desktop\se\client_yeni_16.05.2013 - yerel DB - temiz_DB_EKLEME - Kopya\client_yeni\obj\x86\Debug\client_yeni.Form2.resources
+C:\Users\Coskun\Desktop\se\client_yeni_16.05.2013 - yerel DB - temiz_DB_EKLEME - Kopya\client_yeni\obj\x86\Debug\client_yeni.Properties.Resources.resources
+C:\Users\Coskun\Desktop\se\client_yeni_16.05.2013 - yerel DB - temiz_DB_EKLEME - Kopya\client_yeni\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Coskun\Desktop\se\client_yeni_16.05.2013 - yerel DB - temiz_DB_EKLEME - Kopya\client_yeni\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\ATP\se\client_yeni_16.05.2013 - yerel DB - temiz_DB_EKLEME - Vista\client_yeni\bin\Debug\client_yeni.exe.config
+E:\ATP\se\client_yeni_16.05.2013 - yerel DB - temiz_DB_EKLEME - Vista\client_yeni\obj\x86\Debug\client_yeni.csproj.ResolveComReference.cache
+E:\ATP\se\client_yeni_16.05.2013 - yerel DB - temiz_DB_EKLEME - Vista\client_yeni\obj\x86\Debug\client_yeni.exe
+E:\ATP\se\client_yeni_16.05.2013 - yerel DB - temiz_DB_EKLEME - Vista\client_yeni\obj\x86\Debug\client_yeni.pdb
+E:\ATP\se\client_yeni_16.05.2013 - yerel DB - temiz_DB_EKLEME - Vista\client_yeni\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\ATP\se\client_yeni_16.05.2013 - yerel DB - temiz_DB_EKLEME - Vista\client_yeni\obj\x86\Debug\client_yeni.Form1.resources
+E:\ATP\se\client_yeni_16.05.2013 - yerel DB - temiz_DB_EKLEME - Vista\client_yeni\obj\x86\Debug\client_yeni.Form2.resources
+E:\ATP\se\client_yeni_16.05.2013 - yerel DB - temiz_DB_EKLEME - Vista\client_yeni\obj\x86\Debug\client_yeni.Properties.Resources.resources
+E:\ATP\se\client_yeni_16.05.2013 - yerel DB - temiz_DB_EKLEME - Vista\client_yeni\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\ATP\se\client_yeni_16.05.2013 - yerel DB - temiz_DB_EKLEME - Vista\client_yeni\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\ATP\se\client_yeni_16.05.2013 - yerel DB - temiz_DB_EKLEME - Vista\client_yeni\bin\Debug\client_yeni.exe
+E:\ATP\se\client_yeni_16.05.2013 - yerel DB - temiz_DB_EKLEME - Vista\client_yeni\bin\Debug\client_yeni.pdb
+E:\ATP\se\client_yeni_16.05.2013 - yerel DB - temiz_DB_EKLEME - Vista\client_yeni\bin\Debug\GMap.NET.Core.xml
+E:\ATP\se\client_yeni_16.05.2013 - yerel DB - temiz_DB_EKLEME - Vista\client_yeni\bin\Debug\GMap.NET.WindowsForms.xml
+F:\se\client_yeni_16.05.2013 - yerel DB - temiz_DB_EKLEME - Vista\client_yeni\bin\Debug\client_yeni.exe.config
+F:\se\client_yeni_16.05.2013 - yerel DB - temiz_DB_EKLEME - Vista\client_yeni\obj\x86\Debug\client_yeni.csproj.ResolveComReference.cache
+F:\se\client_yeni_16.05.2013 - yerel DB - temiz_DB_EKLEME - Vista\client_yeni\obj\x86\Debug\client_yeni.exe
+F:\se\client_yeni_16.05.2013 - yerel DB - temiz_DB_EKLEME - Vista\client_yeni\obj\x86\Debug\client_yeni.pdb

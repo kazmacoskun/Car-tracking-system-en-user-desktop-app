@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="login">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sirket" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="kullanici" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sifre" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="loginResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="loginResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="plakalar">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="port" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="plakalarResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="plakalarResult" type="tns:ArrayOfTrack_PortPlaka" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfTrack_PortPlaka">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="Track_PortPlaka" nillable="true" type="tns:Track_PortPlaka" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="Track_PortPlaka">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="PlakaID" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="PortNumber" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Plaka" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="sorgu">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="plaka" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="sorguResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sorguResult" type="tns:ArrayOfString" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfString">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="string" nillable="true" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="smilasyon">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="plaka" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="date" type="s:dateTime" />
+            <s:element minOccurs="1" maxOccurs="1" name="date2" type="s:dateTime" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="smilasyonResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="smilasyonResult" type="tns:ArrayOfTrack_LocationInf" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfTrack_LocationInf">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="Track_LocationInf" nillable="true" type="tns:Track_LocationInf" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="Track_LocationInf">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="LocationInf" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="PortNumber" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Plaka" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Latitude" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="LatPos" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Longitude" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="LonPos" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Speed" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Course" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="EmergencyCall" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Contact" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="DateTime" type="s:dateTime" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="smilasyon_atlamali">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="plaka" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="date" type="s:dateTime" />
+            <s:element minOccurs="1" maxOccurs="1" name="date2" type="s:dateTime" />
+            <s:element minOccurs="1" maxOccurs="1" name="atlama" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="smilasyon_atlamaliResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="smilasyon_atlamaliResult" type="tns:ArrayOfTrack_LocationInf" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="plakalar_FORM2">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="plaka" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="date" type="s:dateTime" />
+            <s:element minOccurs="1" maxOccurs="1" name="date2" type="s:dateTime" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="plakalar_FORM2Response">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="plakalar_FORM2Result" type="tns:ArrayOfTrack_LocationInf" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="sorgu_hiz_kucuk_FORM2">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="plaka" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="date" type="s:dateTime" />
+            <s:element minOccurs="1" maxOccurs="1" name="date2" type="s:dateTime" />
+            <s:element minOccurs="1" maxOccurs="1" name="speed" type="s:double" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="sorgu_hiz_kucuk_FORM2Response">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sorgu_hiz_kucuk_FORM2Result" type="tns:ArrayOfString" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="sorgu_hiz_buyuk_FORM2">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="plaka" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="date" type="s:dateTime" />
+            <s:element minOccurs="1" maxOccurs="1" name="date2" type="s:dateTime" />
+            <s:element minOccurs="1" maxOccurs="1" name="speed" type="s:double" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="sorgu_hiz_buyuk_FORM2Response">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sorgu_hiz_buyuk_FORM2Result" type="tns:ArrayOfString" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="sorgu_yer_FORM2">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="plaka" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="sorgu_yer_FORM2Response">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sorgu_yer_FORM2Result" type="tns:ArrayOfString" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="istatistik_FORM2">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="plaka" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="date" type="s:dateTime" />
+            <s:element minOccurs="1" maxOccurs="1" name="date2" type="s:dateTime" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="istatistik_FORM2Response">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="istatistik_FORM2Result" type="tns:ArrayOfTrack_LocationInf" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="neredeydim_FORM2">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="plaka" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="date" type="s:dateTime" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="neredeydim_FORM2Response">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="neredeydim_FORM2Result" type="tns:ArrayOfString" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="yedekle_FORM2">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="date" type="s:dateTime" />
+            <s:element minOccurs="1" maxOccurs="1" name="date2" type="s:dateTime" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="yedekle_FORM2Response">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="yedekle_FORM2Result" type="tns:ArrayOfTrack_LocationInf" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="loginSoapIn">
+    <wsdl:part name="parameters" element="tns:login" />
+  </wsdl:message>
+  <wsdl:message name="loginSoapOut">
+    <wsdl:part name="parameters" element="tns:loginResponse" />
+  </wsdl:message>
+  <wsdl:message name="plakalarSoapIn">
+    <wsdl:part name="parameters" element="tns:plakalar" />
+  </wsdl:message>
+  <wsdl:message name="plakalarSoapOut">
+    <wsdl:part name="parameters" element="tns:plakalarResponse" />
+  </wsdl:message>
+  <wsdl:message name="sorguSoapIn">
+    <wsdl:part name="parameters" element="tns:sorgu" />
+  </wsdl:message>
+  <wsdl:message name="sorguSoapOut">
+    <wsdl:part name="parameters" element="tns:sorguResponse" />
+  </wsdl:message>
+  <wsdl:message name="smilasyonSoapIn">
+    <wsdl:part name="parameters" element="tns:smilasyon" />
+  </wsdl:message>
+  <wsdl:message name="smilasyonSoapOut">
+    <wsdl:part name="parameters" element="tns:smilasyonResponse" />
+  </wsdl:message>
+  <wsdl:message name="smilasyon_atlamaliSoapIn">
+    <wsdl:part name="parameters" element="tns:smilasyon_atlamali" />
+  </wsdl:message>
+  <wsdl:message name="smilasyon_atlamaliSoapOut">
+    <wsdl:part name="parameters" element="tns:smilasyon_atlamaliResponse" />
+  </wsdl:message>
+  <wsdl:message name="plakalar_FORM2SoapIn">
+    <wsdl:part name="parameters" element="tns:plakalar_FORM2" />
+  </wsdl:message>
+  <wsdl:message name="plakalar_FORM2SoapOut">
+    <wsdl:part name="parameters" element="tns:plakalar_FORM2Response" />
+  </wsdl:message>
+  <wsdl:message name="sorgu_hiz_kucuk_FORM2SoapIn">
+    <wsdl:part name="parameters" element="tns:sorgu_hiz_kucuk_FORM2" />
+  </wsdl:message>
+  <wsdl:message name="sorgu_hiz_kucuk_FORM2SoapOut">
+    <wsdl:part name="parameters" element="tns:sorgu_hiz_kucuk_FORM2Response" />
+  </wsdl:message>
+  <wsdl:message name="sorgu_hiz_buyuk_FORM2SoapIn">
+    <wsdl:part name="parameters" element="tns:sorgu_hiz_buyuk_FORM2" />
+  </wsdl:message>
+  <wsdl:message name="sorgu_hiz_buyuk_FORM2SoapOut">
+    <wsdl:part name="parameters" element="tns:sorgu_hiz_buyuk_FORM2Response" />
+  </wsdl:message>
+  <wsdl:message name="sorgu_yer_FORM2SoapIn">
+    <wsdl:part name="parameters" element="tns:sorgu_yer_FORM2" />
+  </wsdl:message>
+  <wsdl:message name="sorgu_yer_FORM2SoapOut">
+    <wsdl:part name="parameters" element="tns:sorgu_yer_FORM2Response" />
+  </wsdl:message>
+  <wsdl:message name="istatistik_FORM2SoapIn">
+    <wsdl:part name="parameters" element="tns:istatistik_FORM2" />
+  </wsdl:message>
+  <wsdl:message name="istatistik_FORM2SoapOut">
+    <wsdl:part name="parameters" element="tns:istatistik_FORM2Response" />
+  </wsdl:message>
+  <wsdl:message name="neredeydim_FORM2SoapIn">
+    <wsdl:part name="parameters" element="tns:neredeydim_FORM2" />
+  </wsdl:message>
+  <wsdl:message name="neredeydim_FORM2SoapOut">
+    <wsdl:part name="parameters" element="tns:neredeydim_FORM2Response" />
+  </wsdl:message>
+  <wsdl:message name="yedekle_FORM2SoapIn">
+    <wsdl:part name="parameters" element="tns:yedekle_FORM2" />
+  </wsdl:message>
+  <wsdl:message name="yedekle_FORM2SoapOut">
+    <wsdl:part name="parameters" element="tns:yedekle_FORM2Response" />
+  </wsdl:message>
+  <wsdl:portType name="Service1Soap">
+    <wsdl:operation name="login">
+      <wsdl:input message="tns:loginSoapIn" />
+      <wsdl:output message="tns:loginSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="plakalar">
+      <wsdl:input message="tns:plakalarSoapIn" />
+      <wsdl:output message="tns:plakalarSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="sorgu">
+      <wsdl:input message="tns:sorguSoapIn" />
+      <wsdl:output message="tns:sorguSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="smilasyon">
+      <wsdl:input message="tns:smilasyonSoapIn" />
+      <wsdl:output message="tns:smilasyonSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="smilasyon_atlamali">
+      <wsdl:input message="tns:smilasyon_atlamaliSoapIn" />
+      <wsdl:output message="tns:smilasyon_atlamaliSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="plakalar_FORM2">
+      <wsdl:input message="tns:plakalar_FORM2SoapIn" />
+      <wsdl:output message="tns:plakalar_FORM2SoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="sorgu_hiz_kucuk_FORM2">
+      <wsdl:input message="tns:sorgu_hiz_kucuk_FORM2SoapIn" />
+      <wsdl:output message="tns:sorgu_hiz_kucuk_FORM2SoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="sorgu_hiz_buyuk_FORM2">
+      <wsdl:input message="tns:sorgu_hiz_buyuk_FORM2SoapIn" />
+      <wsdl:output message="tns:sorgu_hiz_buyuk_FORM2SoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="sorgu_yer_FORM2">
+      <wsdl:input message="tns:sorgu_yer_FORM2SoapIn" />
+      <wsdl:output message="tns:sorgu_yer_FORM2SoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="istatistik_FORM2">
+      <wsdl:input message="tns:istatistik_FORM2SoapIn" />
+      <wsdl:output message="tns:istatistik_FORM2SoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="neredeydim_FORM2">
+      <wsdl:input message="tns:neredeydim_FORM2SoapIn" />
+      <wsdl:output message="tns:neredeydim_FORM2SoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="yedekle_FORM2">
+      <wsdl:input message="tns:yedekle_FORM2SoapIn" />
+      <wsdl:output message="tns:yedekle_FORM2SoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="Service1Soap" type="tns:Service1Soap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="login">
+      <soap:operation soapAction="http://tempuri.org/login" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="plakalar">
+      <soap:operation soapAction="http://tempuri.org/plakalar" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="sorgu">
+      <soap:operation soapAction="http://tempuri.org/sorgu" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="smilasyon">
+      <soap:operation soapAction="http://tempuri.org/smilasyon" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="smilasyon_atlamali">
+      <soap:operation soapAction="http://tempuri.org/smilasyon_atlamali" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="plakalar_FORM2">
+      <soap:operation soapAction="http://tempuri.org/plakalar_FORM2" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="sorgu_hiz_kucuk_FORM2">
+      <soap:operation soapAction="http://tempuri.org/sorgu_hiz_kucuk_FORM2" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="sorgu_hiz_buyuk_FORM2">
+      <soap:operation soapAction="http://tempuri.org/sorgu_hiz_buyuk_FORM2" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="sorgu_yer_FORM2">
+      <soap:operation soapAction="http://tempuri.org/sorgu_yer_FORM2" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="istatistik_FORM2">
+      <soap:operation soapAction="http://tempuri.org/istatistik_FORM2" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="neredeydim_FORM2">
+      <soap:operation soapAction="http://tempuri.org/neredeydim_FORM2" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="yedekle_FORM2">
+      <soap:operation soapAction="http://tempuri.org/yedekle_FORM2" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="Service1Soap12" type="tns:Service1Soap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="login">
+      <soap12:operation soapAction="http://tempuri.org/login" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="plakalar">
+      <soap12:operation soapAction="http://tempuri.org/plakalar" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="sorgu">
+      <soap12:operation soapAction="http://tempuri.org/sorgu" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="smilasyon">
+      <soap12:operation soapAction="http://tempuri.org/smilasyon" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="smilasyon_atlamali">
+      <soap12:operation soapAction="http://tempuri.org/smilasyon_atlamali" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="plakalar_FORM2">
+      <soap12:operation soapAction="http://tempuri.org/plakalar_FORM2" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="sorgu_hiz_kucuk_FORM2">
+      <soap12:operation soapAction="http://tempuri.org/sorgu_hiz_kucuk_FORM2" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="sorgu_hiz_buyuk_FORM2">
+      <soap12:operation soapAction="http://tempuri.org/sorgu_hiz_buyuk_FORM2" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="sorgu_yer_FORM2">
+      <soap12:operation soapAction="http://tempuri.org/sorgu_yer_FORM2" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="istatistik_FORM2">
+      <soap12:operation soapAction="http://tempuri.org/istatistik_FORM2" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="neredeydim_FORM2">
+      <soap12:operation soapAction="http://tempuri.org/neredeydim_FORM2" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="yedekle_FORM2">
+      <soap12:operation soapAction="http://tempuri.org/yedekle_FORM2" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Service1">
+    <wsdl:port name="Service1Soap" binding="tns:Service1Soap">
+      <soap:address location="http://basaktelemetri.com/locationWebService.asmx" />
+    </wsdl:port>
+    <wsdl:port name="Service1Soap12" binding="tns:Service1Soap12">
+      <soap12:address location="http://basaktelemetri.com/locationWebService.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>
